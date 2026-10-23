@@ -1,0 +1,5 @@
+.gradle/
+build/
+gradle-8.14.6/
+gradle-8.14.6-bin.zip
+*.class
